@@ -1,3 +1,6 @@
+
+# BARE v2 "Cyrill" BARE Coin integration/staging repository
+
 ![GitHub Logo](/share/pixmaps/bitcoin16.png) 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/BareCrypto/BARE-coin?label=latest%20version) 
 ![Release date](https://img.shields.io/github/release-date/BareCrypto/BARE-coin) 
@@ -6,10 +9,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bare_crypto?style=flat)](https://twitter.com/bare_crypto)
 -------------------------------------------------------------------------------------------------------------------------------
 *** BETA SOFTWARE - USE AT YOUR OWN RISK ***
-
-BARE v2 "Cyrill"
-BARE Coin integration/staging repository
-=====================================
 
 BARE is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - 100% Proof of Stake 3.0 Consensus protocol, allowing very low transaction fees and energy expenditure, and staking rewards to all participants in the network
@@ -34,6 +33,7 @@ BARE is a cutting edge cryptocurrency, with many features not available in most 
 ***Clients:***
 > [Client Binaries](https://github.com/BareCrypto/BARE-coin/releases/latest)<br>
 > [![GitHub Releases](https://img.shields.io/github/downloads/BareCrypto/BARE-coin/latest/total)](https://github.com/BareCrypto/BARE-coin/releases/latest) [![GitHub All Releases](https://img.shields.io/github/downloads/BareCrypto/BARE-coin/total?label=downloads%40all%20releases)](https://github.com/BareCrypto/BARE-coin/releases)<br>
+> [Bootstrap](https://bootstrap.bare.network)
 
 ***BARE Platform:***
 > [Bare platform](https://beta.bare.network) *beta*
@@ -41,33 +41,39 @@ BARE is a cutting edge cryptocurrency, with many features not available in most 
 ***Links:***
 > [Homepage](https://bare.network)<br>
 > [Explorer](https://explorer.bare.network)<br>
-> [Discord](https://discord.gg/HqHutDk)<br>
-> [Telegram](https://t.me/joinchat/Ie3kQlS1G-algyWK3LUQGg)<br>
-> [Twitter](https://twitter.com/bare_crypto)<br>
-> [BitcoinTalk](https://bitcointalk.org/index.php?topic=5149503)
+> [Discord](https://discord.bare.network/)<br>
+> [Telegram](https://telegram.bare.network/)<br>
+> [Twitter](https://twitter.bare.network/)<br>
+> [BitcoinTalk](https://bitcointalk.bare.network/)
 
 ***Markets:***
 > [Crex24(BTC)](https://crex24.com/exchange/BARE-BTC)<br>
-> [Altilly(BTC)](https://altilly.com/market/BARE_BTC)<br>
-> [Altilly(XQR)](https://altilly.com/market/BARE_XQR)
+> [Autradex(BTC)](https://wallet.autradex.systems/markets/anbtc)<br>
+> [BitSails(BTC)](https://www.bitsails.com/market?MarketName=BTC-BARE)
 
 ***Masternode/Pos Pools & Hostings:***
-> [rapid.host](http://rapids.host/) ex masternode.community<br>
+> [rapid.host](http://rapids.host/) Now with hybrid staking pool! (March 2021)<br>
 > [StackofStake](https://stackofstake.com)<br>
 > [Ihostmn](https://ihostmn.com)<br>
 > [Nodemasters](https://nodemasters.co.uk)<br>
-> [Pecunia platform](https://pecuniaplatform.io)<br>
-> [NodeZero platform](https://www.nodezeroplatform.com/) / [discord NZO](https://discord.gg/J38DYe7)<br>
-> [Harcomia](https://play.google.com/store/apps/details?id=net.harcomiawallet.android) / [discord HCA](https://discord.gg/bXd8APf)
+> [Harcomia](https://play.google.com/store/apps/details?id=net.harcomiawallet.android) / [discord HCA](https://discord.gg/bXd8APf)<br>
+> [OctoPool](https://octopool.net/)
 
 ***Monitors:***
 > [Coingecko](https://coingecko.com/en/coins/bare)<br>
 > [Coinpaprika](https://coinpaprika.com/coin/bare-bare)<br>
 > [Coincodex](https://coincodex.com/crypto/bare/)<br>
+> [NodeCheck](https://nodecheck.io/currency/BARE) New (January 2021)<br>
 > [Dextro](https://dextro.io/page/coin/bare)<br>
 > [MNRoi](https://www.mnroi.info/coin/BARE)<br>
 > [MNRank](https://mnrank.com/coin/BARE)<br>
 > [Masternode Monitor](https://masternode-monitor.online/coin/BARE)
+
+***Marketing Groups:***
+> [CoinZone Discord](https://discord.gg/Nx32AA7)<br>
+> [Eastern Empire Discord](https://discord.gg/sbecdn9)<br>
+> [Crypto$ky Community](https://discord.gg/AtSfht5)<br>
+> [Crypto Paradise](https://discord.gg/a4fqWTs)<br>
 
 ## PoS Rewards Breakdown ##
 
